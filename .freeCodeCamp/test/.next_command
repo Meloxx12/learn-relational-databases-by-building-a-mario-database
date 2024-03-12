@@ -309,3 +309,7 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 clear
 psql --username=freecodecamp --dbname=postgres
+clear
+psql --username=freecodecamp --dbname=postgres
+clear
+psql --username=freecodecamp --dbname=postgres
